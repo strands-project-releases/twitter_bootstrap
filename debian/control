@@ -1,0 +1,12 @@
+Source: ros-hydro-twitter-bootstrap
+Section: misc
+Priority: extra
+Maintainer: Nick Hawes <n.a.hawes@cs.bham.ac.uk>
+Build-Depends: debhelper (>= 9.0.0), ros-hydro-catkin
+Homepage: http://getbootstrap.com
+Standards-Version: 3.9.2
+
+Package: ros-hydro-twitter-bootstrap
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, 
+Description: This package contains the source for Bootstrap and exposes it to catkin in a way that makes it useable within ROS nodes which create webpages. All code under bootstrap is licensed and authored according to the original documentation of that package.
