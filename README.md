@@ -1,3 +1,26 @@
+## twitter_bootstrap (melodic) - 0.0.3-1
+
+The packages in the `twitter_bootstrap` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -n -t melodic -r melodic twitter_bootstrap` on `Tue, 19 Nov 2019 10:17:27 -0000`
+
+The `twitter_bootstrap` package was released.
+
+Version of package(s) in repository `twitter_bootstrap`:
+
+- upstream repository: https://github.com/strands-project/twitter_bootstrap.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.0.3-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.0`
+- catkin_pkg version: `0.4.14`
+- rosdep version: `0.17.1`
+- rosdistro version: `0.7.5`
+- vcstools version: `0.1.42`
+
+
 ## twitter_bootstrap (kinetic) - 0.0.3-0
 
 The packages in the `twitter_bootstrap` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -n -t kinetic -r kinetic twitter_bootstrap` on `Thu, 29 Jun 2017 09:21:08 -0000`
